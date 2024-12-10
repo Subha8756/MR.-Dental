@@ -80,14 +80,14 @@ a.nave4646:hover {
     font-size: 16px;
     position: relative;
     margin: auto;
-    padding: 1em 2.5em 1em 2.5em;
+    padding: 16px 25px 16px 25px;
     border: none;
-    background: #A50329 ;
-    border-radius: 2em;
+    background: #A50329;
+    border-radius: 60px 60px 60px 60px;
     font-size: 16px;
     font-weight: 600;
     color: #fff;
-   }
+}
    a.Appointment-btn53553:hover {
     color: #fff;
 }
