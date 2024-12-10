@@ -91,3 +91,12 @@ a.nave4646:hover {
    a.Appointment-btn53553:hover {
     color: #fff;
 }
+.hero-ssection {
+    background-image: url(img/hero_bg_2_1\ \(1\).webp);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:scroll;
+}
