@@ -28,3 +28,29 @@ img#tope-bar-li-img {
     border-radius: 30px 30px 30px 30px;
     margin: 0px 10px 0px 0px;
 }
+/* hrader nave menu css */
+/* hrader nave menu colum -1 css */
+.column-nave-bar-menu-1 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background-image: url(img/logo_bg_1.webp);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+
+}
+/* hrader nave menu colum -2 css */
+
+.column-nave-bar-menu-2 {
+    float: left;
+    width: 60%;
+    padding: 10px;
+}
+/* hrader nave menu colum -3 css */
+.column-nave-bar-menu-3 {
+    float: left;
+    width: 20%;
+    padding: 10px;
+}
