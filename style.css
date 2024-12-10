@@ -61,9 +61,29 @@ a.nave4646 {
     padding: 14px 16px;
     text-decoration: none;
     font-size: 16px;
+    font-weight: 600;
+    border: none;
 }
+a.nave4646:hover {
+    color: #A50329;
+}
+.nave-menu {
+    margin: 24px 0px 0px 140px;
+}
+/* nave Appointment Now button */
 .column-nave-bar-menu-button {
     float: left;
     width: 20%;
     padding: 10px;
 }
+.Appointment-Now {
+    font-size: 16px;
+    position: relative;
+    margin: auto;
+    padding: 1em 2.5em 1em 2.5em;
+    border: none;
+    background: #fff;
+   }
+   .Appointment-Now {
+    border-radius: 2em;
+   }
