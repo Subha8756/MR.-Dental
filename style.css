@@ -100,3 +100,9 @@ a.nave4646:hover {
     background-size: cover;
     background-attachment:scroll;
 }
+.hero-ssection-column1 {
+    float: left;
+    width: 50%;
+    .hero-ssection-column2 {
+    float: left;
+    width: 50%;
