@@ -1,3 +1,24 @@
+/* hrader tope bar css */
 .tope-bar {
     background-color: #a50329;
+    padding: 10px 0px 10px 10px;
+}
+ul.tope-bar-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li.tope-bar-li {
+    float: left;
+    padding: 0px 0px 0px 10px;
+    font-size: 16px;
+    color: #ffffff;
+}
+img#tope-bar-li-img {
+    width: 36px;
+    border: solid 1px #fff;
+    padding: 4px 4px 4px 4px;
+    border-radius: 30px 30px 30px 30px;
+    margin: 0px 10px 0px 0px;
 }
