@@ -41,6 +41,8 @@ img#tope-bar-li-img {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment:fixed;
+    width: 100%;
+    height: 100vh;
 }
 /* hrader nave menu colum -2 css */
 
