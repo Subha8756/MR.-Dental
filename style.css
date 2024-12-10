@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: "DM Sans"sans-serif;
   }/* hrader tope bar css */
 .tope-bar {
     background-color: #a50329;
@@ -36,10 +36,31 @@ img#tope-bar-li-img {
     padding: 10px;
     text-align: center;
 }
+/* nave menu culoum */
 .column-nave-bar-menu-nave-column {
     float: left;
     width: 60%;
     padding: 10px;
+}
+ul.nave-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+li.nave-li {
+    float: left;
+}
+a.nave4646 {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 16px;
 }
 .column-nave-bar-menu-button {
     float: left;
