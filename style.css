@@ -140,3 +140,12 @@ p.hero-ssection-para-01 {
     img#doctor28374 {
         width: 680px;
     }
+    /* <!-- this is section no 2 css --> */
+    .section-no-2-column-1 {
+        float: left;
+        width: 40%;
+    }
+    .section-no-2-column-2 {
+        float: left;
+        width: 60%;
+    }
