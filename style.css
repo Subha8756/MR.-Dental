@@ -105,7 +105,7 @@ a.nave4646:hover {
     float: left;
     width: 70%;
     vertical-align: middle;
-    padding: 178px 0px 0px 175px;
+    padding: 178px 0px 0px 105px;
 }
  .hero-ssection-column2 {
     float: left;
@@ -114,4 +114,9 @@ a.nave4646:hover {
     
 .img#hero-ssection-img-01 {
         width: 62px;
+    }
+    .h1.hero-ssection-title-02 {
+        font-size: 84px;
+        font-weight: bold;
+        color: #000;
     }
