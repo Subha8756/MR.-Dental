@@ -149,3 +149,24 @@ p.hero-ssection-para-01 {
         float: left;
         width: 60%;
     }
+    .section-no-2 {
+        margin: 0px 60px 0px 60px;
+    }
+    /* rview box css */
+    h1.box-review-h1 {
+        font-size: 20px;
+        font-weight: bold;
+    }
+    img#star77656 {
+        width: 124px;
+        margin: -15px 0px 0px 0px;
+    }
+    p.phone-no {
+        font-size: 19px;
+        font-weight: 500;
+    }
+    .box-review {
+        background-color: #fff;
+        border-radius: 30px 30px 30px 30px;
+        text-align: center;
+    }
