@@ -91,6 +91,7 @@ a.nave4646:hover {
    a.Appointment-btn53553:hover {
     color: #fff;
 }
+/* main hero section css */
 .hero-ssection {
     background-image: url(img/hero_bg_2_1\ \(1\).webp);
     width: 100%;
@@ -106,3 +107,4 @@ a.nave4646:hover {
     .hero-ssection-column2 {
     float: left;
     width: 50%;
+    
