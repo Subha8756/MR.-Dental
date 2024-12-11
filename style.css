@@ -112,24 +112,31 @@ a.nave4646:hover {
     width: 30%;
     }
     
-.img#hero-ssection-img-01 {
+img#hero-ssection-img-01 {
         width: 62px;
     }
-.h1.hero-ssection-title-02 {
+h1.hero-ssection-title-02 {
         font-size: 84px;
         font-weight: bold;
         color: #000;
     }
- .spam.spam01 {
+ spam.spam01 {
         color: #a50329;
     }
-.h6.hero-ssection-title-img  {
+h6.hero-ssection-title-img  {
         font-size: 20px;
         color: #a50329;
         font-weight: 500;
     }
-.p.hero-ssection-para-01 {
+p.hero-ssection-para-01 {
         font-size: 18px;
         color: #788094;
         margin: 0px 0px 50px 0px;
+    }
+    .doctor-img {
+        margin: 63px 0px 0px -255px;
+        z-index: -999 !important;
+    }
+    img#doctor28374 {
+        width: 680px;
     }
