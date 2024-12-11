@@ -149,27 +149,38 @@ p.hero-ssection-para-01 {
         float: left;
         width: 60%;
     }
-    .section-no-2 {
-        margin: 0px 60px 0px 60px;
+    /* .section-no-2 {
+        margin: 0px 150px 0px 150px;
+        /* padding: 100px 0px 100px 0px; */
+    } 
+    .section-no-2-column-2 {
+        padding: 80px 0px 80px 120px;
     }
-    /* rview box css */
-    h1.box-review-h1 {
-        font-size: 20px;
+    h1.section-no-2-h1 {
+        font-size: 43px;
         font-weight: bold;
     }
-    img#star77656 {
-        width: 124px;
-        margin: -15px 0px 0px 0px;
+    p.section-no-2-para {
+        font-size: 18px;
+        color: #788094;
+        margin: 21px 0px 70px 0px;
     }
-    p.phone-no {
-        font-size: 19px;
-        font-weight: 500;
+    .section-no-2-column-2 {
+        background-image: url(img/pattern_shape_1.png);
+        width: 60%;
+        height: 50vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment:scroll;
+
     }
-    .box-review {
-        background-color: #fff;
-        border-radius: 30px 30px 30px 30px;
-        text-align: center;
+    .section-no-2-img {
+        margin: 80px 0px 80px 130px;
     }
-    img#tiojerjt {
-        width: 24px;
+    .colum77546767 {
+        margin: 80px 0px 80px 122px;
     }
+    
+   
+    
