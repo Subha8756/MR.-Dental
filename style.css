@@ -103,11 +103,15 @@ a.nave4646:hover {
 }
 .hero-ssection-column1 {
     float: left;
-    width: 50%;
+    width: 70%;
     vertical-align: middle;
+    padding: 178px 0px 0px 175px;
 }
  .hero-ssection-column2 {
     float: left;
-    width: 50%;
+    width: 30%;
     }
     
+.img#hero-ssection-img-01 {
+        width: 62px;
+    }
