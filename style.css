@@ -104,7 +104,7 @@ a.nave4646:hover {
 .hero-ssection-column1 {
     float: left;
     width: 50%;
-    text-align: center;
+    vertical-align: middle;
 }
  .hero-ssection-column2 {
     float: left;
