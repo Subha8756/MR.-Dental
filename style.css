@@ -168,7 +168,7 @@ p.hero-ssection-para-01 {
     .section-no-2-column-2 {
         background-image: url(img/pattern_shape_1.png);
         width: 60%;
-        height: 50vh;
+        /* height: 50vh; */
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -197,5 +197,15 @@ p.hero-ssection-para-01 {
         100% {
             transform: translateY(0);
         }
+    }
+    /* this a section 3 */
+    .section-no-3 {
+        background-color: #f50000;
+        text-align: center;
+    }
+    h1.section-no-3-h1 {
+        font-size: 52px;
+        font-weight: bold;
+        color: #000000;
     }
     
